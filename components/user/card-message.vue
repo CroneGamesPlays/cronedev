@@ -2,8 +2,8 @@
 	<div class="relative w-full flex flex-wrap items-stretch p-3 bg-slate-200 dark:bg-zinc-800 rounded">
 		<textarea
 			class="rounded-r-none flex-auto outline-0 bg-transparent overflow-hidden resize-none"
-			placeholder="Message @kyra"
-			aria-label="Send an email to Aura"
+			placeholder="Conversar com @CroneGamesPlays"
+			aria-label="Envie um e-mail para CroneGamesPlays"
 			v-model.trim="input"
 			@input="handleInput"
 			@keyup.ctrl.enter="submit"
@@ -22,7 +22,8 @@
 		</button>
 	</div>
 	<div v-if="input" class="text-right text-xs">
-		<label for="email-form"><span class="font-bold text-indigo-500">Tip:</span> You can press Ctrl + Enter to send</label>
+		<label for="email-form"><span class="font-bold text-indigo-500">Tip:</span> 
+Você pode pressionar Ctrl + Enter para enviar</label>
 	</div>
 
 	<a href="#" ref="anchor" class="hidden" aria-hidden="false" rel="nofollow" target="_top"></a>
