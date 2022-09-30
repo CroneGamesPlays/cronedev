@@ -18,7 +18,7 @@ export default defineNuxtConfig({
 		link: [
 			// <link rel='apple-touch-icon' sizes='180x180' href='/icons/apple-touch-icon.png' />
 			// <link rel='apple-touch-startup-image' href='/icons/apple-startup.png' />
-			{ rel: 'canonical', href: 'https://cronewebdev.cronegames.repl.co' }
+			{ rel: 'canonical', href: 'https://cronedev.netlify.app/' }
 			// <link rel='icon' href='/icons/android-chrome-192x192.png' />
 			// <link rel='icon' href='/favicon.ico' />
 			// <link rel='icon' type='image/png' sizes='16x16' href='/icons/favicon-16x16.png' />
@@ -58,7 +58,7 @@ export default defineNuxtConfig({
 			{ name: 'reply-to', content: 'felipebragabr123@gmail.com' },
 			{ name: 'revisit-after', content: '7 days' },
 			{ name: 'robots', content: 'archive,follow,imageindex,index,odp,snippet,translate' },
-			{ name: 'shortlink', content: 'https://cronewebdev.cronegames.repl.co' },
+			{ name: 'shortlink', content: 'https://cronedev.netlify.app/' },
 			{ name: 'subject', content: "CroneGamesPlays's personal website and portfolio" },
 			{ name: 'summary', content: "CroneGamesPlays's personal website and portfolio." },
 			{ name: 'target', content: 'all' },
@@ -67,7 +67,7 @@ export default defineNuxtConfig({
 			{ name: 'twitter:creator', content: '@Felipe81063023' },
 			// { name: 'twitter:image', content: 'https://kyra.dev/icons/opengraph.png' },
 			{ name: 'twitter:site', content: '@Felipe81063023' },
-			{ name: 'url', content: 'https://cronewebdev.cronegames.repl.co' },
+			{ name: 'url', content: 'https://cronedev.netlify.app/' },
 			{ property: 'og:description', content: "CroneGamesPlays's personal website and portfolio" },
 			{ property: 'og:email', content: 'felipebragabr123@gmail.com' },
 			// { property: 'og:image:alt', content: 'OpenGraphImage' },
@@ -78,7 +78,7 @@ export default defineNuxtConfig({
 			{ property: 'og:site_name', content: 'CroneGamesPlays' },
 			{ property: 'og:title', content: 'Home | CroneGamesPlays' },
 			{ property: 'og:type', content: 'website' },
-			{ property: 'og:url', content: 'https://cronewebdev.cronegames.repl.co' }
+			{ property: 'og:url', content: 'https://cronedev.netlify.app/' }
 		]
 	}
 });
