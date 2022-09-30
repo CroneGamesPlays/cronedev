@@ -7,7 +7,7 @@ export const useUser = () => {
 		kv: {},
 		discord_user: {
 			username: 'CroneGamesPlays',
-			public_flags: 0,
+			public_flags: 1,
 			id: '677881458014158888',
 			discriminator: '9901',
 			bot: false,
