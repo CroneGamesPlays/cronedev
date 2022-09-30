@@ -35,13 +35,13 @@
 				<!-- customStatus -->
 				<div class="pb-2.5">
 					<img
-						src="https://cdn.discordapp.com/emojis/886787117630509096.webp?size=44&quality=lossless"
+						src="https://cdn.discordapp.com/emojis/1008822703798624296.webp?size=44&quality=lossless"
 						iara-label=":iara_snuggie:"
 						alt="iara_snuggie"
 						draggable="false"
 						class="w-5 h-5 -my-px mr-1 float-left"
 					/>
-					<external-link href="https://en.pronouns.page/@kyranet" />
+					<external-link href="https://dsc.gg/animesworld" />
 				</div>
 
 				<!-- divider -->
