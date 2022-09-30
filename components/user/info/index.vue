@@ -16,7 +16,7 @@
 			{{ ' Avatar: ' }}
 			<external-link href="https://twitter.com/Felipe81063023" text="@Felipe81063023" />
 			{{ ' · Banner: ' }}
-			<external-link href="https://www.tumblr.com/1041uuu" text="1041uuu" />
+			<external-link href="https://tenor.com/es/ver/yu-otasaka-charlotte-anime-gif-11426452" text="Yu Otasaka Charlotte GIF" />
 			{{ '\n\n' }}
 
 			<span class="inline-block">
@@ -28,7 +28,7 @@
 				/>
 			</span>
 			{{ ' ' }}
-			<external-link href="https://github.com/skyra-project" text="Skyra" />{{ "'s Project Owner\n" }}
+			<external-link href="https://github.com/CroneGamesPlays/cronedev" text="Crone" />{{ "'s Project Owner\n" }}
 
 			<span class="inline-block">
 				<img
@@ -39,7 +39,7 @@
 				/>
 			</span>
 			{{ ' ' }}
-			<external-link href="https://github.com/discordjs" text="Discord.js" />{{ ' Core Maintainer\n' }}
+			<external-link href="https://github.com/discordjs" text="Discord.js" />{{ ' Programador Dev & Administrador\n' }}
 
 			<span class="inline-block">
 				<img
@@ -50,7 +50,7 @@
 				/>
 			</span>
 			{{ ' ' }}
-			<external-link href="https://github.com/sapphiredev" text="Sapphire" />{{ "'s Lead Programmer & Architect\n" }}
+			<external-link href="https://github.com/javascript" text="JavaScript & HTML" />{{ "'s Programador \n" }}
 		</div>
 	</div>
 </template>
