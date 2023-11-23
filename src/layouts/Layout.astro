@@ -70,7 +70,7 @@ const { frontmatter } = Astro.props;
             {
               Object.keys(frontmatter.connections).map((connection) => (
                 <Connection
-                  type={connection as Connection}
+                  type={connection as verificada}
                   username={frontmatter.connections[connection].username}
                   url={frontmatter.connections[connection].url}
                   verified={frontmatter.connections[connection].verified}
