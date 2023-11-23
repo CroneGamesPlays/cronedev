@@ -96,3 +96,6 @@ UPBGE (Blender Game Engine), e tenho um site de streaming com animes online e le
 - Yoruka Music: https://yorukagg.netlify.app/
 - Kandaraku Anime Database API: https://www.npmjs.com/package/kandaraku
 - Kandaraku Streaming Anime & Manga Website: Em breve...
+
+# MEMBRO DISCORD DESDE
+14 de fev. de 2020
