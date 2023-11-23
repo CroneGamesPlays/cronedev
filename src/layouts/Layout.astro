@@ -51,12 +51,12 @@ const { frontmatter } = Astro.props;
         <Info nickname={frontmatter.displayName} username={frontmatter.username} />
         <Divider top={16} bottom={0} />
         <Scrollbar>
-          <Section label="About Me">
+          <Section label="Sobre Mim">
             <main class="normalize">
               <slot />
             </main>
           </Section>
-          <Section label="Roles">
+          <Section label="Cargos">
             <Flex wrap="wrap" gap={4}>
               {
                 Object.keys(frontmatter.roles).map((role) => (
