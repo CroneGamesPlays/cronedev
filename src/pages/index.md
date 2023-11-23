@@ -87,14 +87,12 @@ connections:
 
 Olá, como vai? Sou um desenvolvedor em JavaScript, me chamo Crone, crio APIs, bots e websites. Tenho varios projetos, como o Kandaraku API Package, Yoruka Music Bot e o
 Learning Japanese Bot. Estou começando na criação de jogos 3D e planejo criar um jogo de mundo aberto, chamado de Shikigami no Onmyouji, em Python utilizando o
-UPBGE (Blender Game Engine), e tenho um site de streaming com animes online e leitura de mangas online, chamado Kandaraku Streaming Anime & Manga.
+UPBGE (Blender Game Engine), e tenho um site de streaming com animes online e leitura de mangas online, chamado Kandaraku Streaming Anime & Manga Website.
 
-JavaScript Developer
 
-Idade: 18 anos
-
-Website: https://cronedevapp.netlify.app/
-
-Yoruka Music: https://yorukagg.netlify.app/
-
-Kandaraku Anime Database API: https://www.npmjs.com/package/kandaraku
+- JavaScript Developer
+- Idade: 18 anos
+- Website: https://cronedevapp.netlify.app/
+- Yoruka Music: https://yorukagg.netlify.app/
+- Kandaraku Anime Database API: https://www.npmjs.com/package/kandaraku
+- Kandaraku Streaming Anime & Manga Website: Em breve...
