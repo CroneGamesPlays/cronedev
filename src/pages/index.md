@@ -90,7 +90,11 @@ Learning Japanese Bot. Estou começando na criação de jogos 3D e planejo criar
 UPBGE (Blender Game Engine), e tenho um site de streaming com animes online e leitura de mangas online, chamado Kandaraku Streaming Anime & Manga.
 
 JavaScript Developer
+
 Idade: 18 anos
+
 Website: https://cronedevapp.netlify.app/
+
 Yoruka Music: https://yorukagg.netlify.app/
+
 Kandaraku Anime Database API: https://www.npmjs.com/package/kandaraku
